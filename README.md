@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Ссылка на рабочий сайт:
-https://angilo4ik85.github.io/3prilozOpogode/
+https://dapper-jalebi-feea5b.netlify.app/
 
 ### Ссылка на GitHub Pages:
 https://github.com/angilo4ik85/3prilozOpogode.git
